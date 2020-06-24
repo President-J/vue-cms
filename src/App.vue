@@ -11,7 +11,7 @@
       <span class="mui-icon mui-icon-email">
         <span class="mui-badge">9</span>
       </span>
-      <span class="mui-tab-label">消息</span>
+      <span class="mui-tab-label">news</span>
     </a>
     <a class="mui-tab-item" href="#tabbar-with-contact">
       <span class="mui-icon mui-icon-contact"></span>
