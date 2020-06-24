@@ -19,7 +19,7 @@
     </a>
     <a class="mui-tab-item" href="#tabbar-with-map">
       <span class="mui-icon mui-icon-gear"></span>
-      <span class="mui-tab-label">设新政执行程序中置</span>
+      <span class="mui-tab-label">设新政执上梵蒂冈的规定行程序中置</span>
     </a>
   </nav>
   </div>
