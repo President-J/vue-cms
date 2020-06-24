@@ -15,11 +15,11 @@
     </a>
     <a class="mui-tab-item" href="#tabbar-with-contact">
       <span class="mui-icon mui-icon-contact"></span>
-      <span class="mui-tab-label">通讯dfsdfsfsfs录</span>
+      <span class="mui-tab-label">通讯d水电费水电费fsdfsfsfs录</span>
     </a>
     <a class="mui-tab-item" href="#tabbar-with-map">
       <span class="mui-icon mui-icon-gear"></span>
-      <span class="mui-tab-label">设新政策执行程序中置</span>
+      <span class="mui-tab-label">设新政策懂法守法神鼎飞丹砂执行程序中置</span>
     </a>
   </nav>
   </div>
