@@ -15,7 +15,7 @@
     </a>
     <a class="mui-tab-item" href="#tabbar-with-contact">
       <span class="mui-icon mui-icon-contact"></span>
-      <span class="mui-tab-label">通电费fsdfsfsfs录</span>
+      <span class="mui-tab-label">通电费f不发是非得失sdfsfsfs录</span>
     </a>
     <a class="mui-tab-item" href="#tabbar-with-map">
       <span class="mui-icon mui-icon-gear"></span>
