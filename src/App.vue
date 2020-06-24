@@ -19,7 +19,7 @@
     </a>
     <a class="mui-tab-item" href="#tabbar-with-map">
       <span class="mui-icon mui-icon-gear"></span>
-      <span class="mui-tab-label">数萨发斯蒂芬是的冯绍峰政执上梵蒂冈的规定行程序中置</span>
+      <span class="mui-tab-label">远程提交到底是怎么回事</span>
     </a>
   </nav>
   </div>
